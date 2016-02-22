@@ -11,7 +11,7 @@ public class Calculator{
 		return this.result;
 	}
 
-	public void clearResult(){
+	public void cleanResult(){
 		this.result = 0;
 	}
 }
